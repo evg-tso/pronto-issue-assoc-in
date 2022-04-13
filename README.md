@@ -1,32 +1,7 @@
 # pronto-issue-assoc-in
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar pronto-issue-assoc-in-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+This repository was created to reproduce an issue in the [pronto](https://github.com/AppsFlyer/pronto) repository.  
+[Link to the issue](https://github.com/AppsFlyer/pronto/issues/12)
 
 ## License
 
